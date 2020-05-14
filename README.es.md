@@ -10,7 +10,7 @@ Cree un algoritmo que genere aleatoriamente una tarjeta en cada actualización:
 2. La tarjeta debe tener una de las posibles suites: Corazones, Picas, Clubes y Diamantes.
 3. El valor de la tarjeta debe ser uno de los siguientes: 1 a 10, Rey, Reina, Jota o As (sin comodín).
 
-Al final, el proyecto debe ser similar a [esta demostración](https://projects.breatheco.de/json?slug=random-card&preview).
+Al final, el proyecto debe ser similar a [esta demostración](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
 
 ### Pistas 
 
