@@ -8,10 +8,10 @@ In this project you will learn how to change your website styles during the runt
 
 ## 📝 Instructions
 
-Create and algorithm that randomly builds a card on every refresh:
+Create an algorithm that randomly builds a card on every refresh:
 
-1. Every time the website refreshes a new random card needs to show
-2. The card must have one of the possible suites: Hearts, Spades, Clubs and Diamons.
+1. Every time the website refreshes a new random card needs to show.
+2. The card must have one of the possible suites: Hearts, Spades, Clubs and Diamonds.
 3. The card value must be one of the following: 1 to 10, King, Queen, Jack or Ace (no joker).
 
 In the end, the project needs to look similar to [this demo](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
@@ -24,6 +24,6 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 ```
     <div class='card heart'></div>
 ```
-- You can use images, icons or HTML character entities to generate the sute symbol into the HTML [Here you can find the character entities](https://brajeshwar.github.io/entities/) for the :before and :after content.
+- You can use images, icons or HTML character entities to generate the suite symbol into the HTML [Here you can find the character entities](https://brajeshwar.github.io/entities/) for the :before and :after content.
 
 ![https://ucarecdn.com/7cd14b33-dd69-4680-aaf3-ab16afe2316b/ScreenShot20190511at30921AM.png](https://ucarecdn.com/7cd14b33-dd69-4680-aaf3-ab16afe2316b/ScreenShot20190511at30921AM.png)
