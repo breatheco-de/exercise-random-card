@@ -1,0 +1,16 @@
+let diam = '&diams;';
+let cora = '&hearts;';
+let treb = '&clubs;';
+let pica = '&spades;';
+
+let pintas = [ diam,cora,treb,pica];
+let num = ['A','2','3','4','5','6','7','8','9','J','Q','K'];
+
+
+
+
+
+
+
+
+console.log(diam);

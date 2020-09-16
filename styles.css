@@ -1,0 +1,57 @@
+body {
+background-color: green;
+}
+
+header {
+    color: white;
+    font-size: xx-large;
+}
+
+.carta {
+    margin: auto;
+    background-color: whitesmoke;
+    border: 2px solid black;
+    border-radius: 20px;
+    width: 300px;
+    height: 500px;
+    display: flexbox;
+    flex-direction: column;
+}
+
+.pintasup {
+    text-align: left, u;
+    margin-left: 5%;
+    height: 100px;
+}
+
+.pintainf {
+    text-align: right;
+    margin-right: 5%;
+    height: 100px;
+}
+
+#diam {
+    font-size: 120px;
+    color: red;
+}
+
+#cora {
+    font-size: 120px;
+    color: red;
+}
+
+#treb {
+    font-size: 120px;
+    color: black;
+}
+
+#pica {
+    font-size: 120px;
+    color: black;
+}
+
+.num {
+    font-size: 200px;
+    text-align: center;
+    height: 280px;
+}
