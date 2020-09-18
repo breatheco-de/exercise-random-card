@@ -18,40 +18,16 @@ header {
     flex-direction: column;
 }
 
-.pintasup {
+#p1 {
     text-align: left, u;
     margin-left: 5%;
     height: 100px;
-}
-
-.pintainf {
-    text-align: right;
-    margin-right: 5%;
-    height: 100px;
-}
-
-#diam {
     font-size: 120px;
-    color: red;
 }
 
-#cora {
-    font-size: 120px;
-    color: red;
-}
-
-#treb {
-    font-size: 120px;
-    color: black;
-}
-
-#pica {
-    font-size: 120px;
-    color: black;
-}
-
-.num {
+#n1 {
     font-size: 200px;
     text-align: center;
     height: 280px;
+    font-size: 120px;
 }
