@@ -24,6 +24,12 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 ```
     <div class='card heart'></div>
 ```
-- You can use images, icons or HTML character entities to generate the suit symbol into the HTML. [Here you can find the character entities](https://brajeshwar.github.io/entities/) for the :before and :after content.
+- You can use images, [https://fontawesome.com/icons?d=gallery](icons) or HTML character entities to generate the suit symbol into the HTML. [Here you can find the character entities](https://brajeshwar.github.io/entities/).
 
-
+HTML	| Simbolo	| Numérico	| Descripción	                    | Hex	        | CSS (ISO) | JS (Octal)|
+--------|-----------|-----------|-----------------------------------|---------------|-----------|-----------|
+&loz;	| ◊	        | &#9674;	| lozenge	                        | u+25CA ISOpub	| \25CA	    | \u25ca    |
+&spades;| ♠	        | &#9824;	| black spade suit                  | u+2660 ISOpub	| \2660	    | \u2660    |
+&clubs;	| ♣	        | &#9827;	| black club suit, a.k.a. shamrock  | u+2663 ISOpub	| \2663	    | \u2663    |
+&hearts;| ♥	        | &#9829;	| black heart suit, a.k.a. valentine| u+2665 ISOpub	| \2665	    | \u2665    |
+&diams;	| ♣	        | &#9830;	| black diamond suit                | u+2663 ISOpub	| \2666	    | \u2666    |
