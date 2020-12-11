@@ -26,4 +26,4 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 ```
 - You can use images, icons or HTML character entities to generate the suit symbol into the HTML. [Here you can find the character entities](https://brajeshwar.github.io/entities/) for the :before and :after content.
 
-![https://ucarecdn.com/7cd14b33-dd69-4680-aaf3-ab16afe2316b/ScreenShot20190511at30921AM.png](https://ucarecdn.com/7cd14b33-dd69-4680-aaf3-ab16afe2316b/ScreenShot20190511at30921AM.png)
+
