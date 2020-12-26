@@ -24,7 +24,7 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 ```
     <div class='card heart'></div>
 ```
-- You can use images, [https://fontawesome.com/icons?d=gallery](icons) or HTML character entities to generate the suit symbol into the HTML. [Here you can find the character entities](https://brajeshwar.github.io/entities/).
+- You can use images, [icons](https://fontawesome.com/icons?d=gallery) or HTML character entities to generate the suit symbol into the HTML. [Here you can find the character entities](https://brajeshwar.github.io/entities/).
 
 HTML	| Simbolo	| Numérico	| Descripción	                    | Hex	        | CSS (ISO) | JS (Octal)|
 --------|-----------|-----------|-----------------------------------|---------------|-----------|-----------|
