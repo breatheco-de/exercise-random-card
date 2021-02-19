@@ -24,12 +24,12 @@ Al final, el proyecto debe ser similar a [esta demostración](https://github.com
 ```
     <div class='card heart'></div>
 ```
-- Puede usar imágenes, iconos o entidades de caracteres HTML para generar el símbolo de silencio en el HTML [Aquí puede encontrar las entidades de caracteres](https://brajeshwar.github.io/entities/) Para el: antes y después del contenido.
+- Copia y pega estos emogies dentro te tu codigo para los simbolos: ♦ ♥ ♠ ♣
 
-HTML	| Simbolo	| Numérico	| Descripción	                    | Hex	        | CSS (ISO) | JS (Octal)|
---------|-----------|-----------|-----------------------------------|---------------|-----------|-----------|
-&loz;	| ◊	        | &#9674;	| lozenge	                        | u+25CA ISOpub	| \25CA	    | \u25ca    |
-&spades;| ♠	        | &#9824;	| black spade suit                  | u+2660 ISOpub	| \2660	    | \u2660    |
-&clubs;	| ♣	        | &#9827;	| black club suit, a.k.a. shamrock  | u+2663 ISOpub	| \2663	    | \u2663    |
-&hearts;| ♥	        | &#9829;	| black heart suit, a.k.a. valentine| u+2665 ISOpub	| \2665	    | \u2665    |
-&diams;	| ♣	        | &#9830;	| black diamond suit                | u+2663 ISOpub	| \2666	    | \u2666    |
+### 😎 Te sientes con confianza?
+
+Los siguientes requeriemientos no son necesarios para completar satisfactoriamente el proyecto pero puedes intentar retarte a ti mismo!
+
+`+1` Agrega un botón que genere una nueva carta cuando sea apretado.
+`+1` Agrega un timer que genere una nueva carta automaticamente cada 10 segundos.
+`+1` Permítele al usuario especificar el width y height de la carta utilizando text-inputs.
