@@ -24,7 +24,7 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 ```
     <div class='card heart'></div>
 ```
-- You can grab the icons from the [https://fontawesome.com/icons?d=gallery](font-awesome font icon gallery)
+- You can grab the icons from here (copy and paste into your code): ♦ ♥ ♠ ♣
 
 ## 😎 Feeling Confident?
 
