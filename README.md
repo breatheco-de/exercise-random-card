@@ -27,9 +27,6 @@ b) If working locally type the following command from your command line: `git cl
 
 💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
 
-![image](https://user-images.githubusercontent.com/63673743/111710041-903dbf80-8827-11eb-91fe-8c2f0cbe3b84.png)
-
-
 ### 💡Hints
 
 - Remember that the first event of a website lifecycle is [onLoad (your code starts running there)](https://www.w3schools.com/jsref/event_onload.asp). You should generate a random number between 1 and 4 to pick a suit and another random number between 0 and 12 to pick a card number.
