@@ -18,14 +18,16 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 
 ## 🌱  How to start this project
 
-This project comes with the necessary files to start working, but you have two options to start:
+ Do not clone this repository.
 
-a) Use gitpod: open this link in your browser to clone it with gitpod: https://gitpod.io#https://github.com/breatheco-de/exercise-random-card.git
+The first step to start coding is cloning the [vanilla.js boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello.git) on your local computer or gitpod.
 
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-random-card.git
-```
+a) If using Gitpod you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello.git).
+b) If working locally type the following command from your command line: `git clone https://github.com/4GeeksAcademy/vanillajs-hello.git`.
+
+💡 Important: Remember to create a new repository, update the remote, and upload the code to your new repository.
+![image](https://user-images.githubusercontent.com/63673743/111710041-903dbf80-8827-11eb-91fe-8c2f0cbe3b84.png)
+
 
 ### 💡Hints
 
