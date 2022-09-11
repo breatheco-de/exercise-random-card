@@ -14,7 +14,7 @@ Create an algorithm that randomly builds a card on every refresh:
 
 2. The card must have one of the possible suits: Hearts, Spades, Clubs and Diamonds.
 
-3. The card value must be one of the following: 1 to 10, King, Queen, Jack or Ace, (no joker).
+3. The card value must be one of the following: 2 to 10, King, Queen, Jack or Ace, (no joker).
 
 In the end, the project needs to look similar to [this demo](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
 
@@ -60,4 +60,4 @@ The following requirements are not needed to sucessfully finish this project, bu
 
 `+1` Add a timer that generates a new card every 10 seconds.   
 
-`+1` Allow the user to specify the card weight and height using text inputs.   
+`+1` Allow the user to specify the card width and height using text inputs.   
