@@ -60,4 +60,4 @@ The following requirements are not needed to sucessfully finish this project, bu
 
 `+1` Add a timer that generates a new card every 10 seconds.   
 
-`+1` Allow the user to specify the card weight and height using text inputs.   
+`+1` Allow the user to specify the card width and height using text inputs.   
