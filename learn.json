@@ -9,5 +9,7 @@
 	"difficulty": "beginner",
 	"technologies": ["javascript", "html/css", "html", "css", "The DOM"],
 	"description" : "Use your CSS/HTML/JS skills to randomly draw a poker card on every website refresh.",
-	"video-id": "kFrWxuKor_Y"
+	"video-id": "kFrWxuKor_Y",
+    "autoPlay": false,
+    "projectType": "project"
 }
