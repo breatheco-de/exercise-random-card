@@ -46,7 +46,7 @@ Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `gi
     <div class='card heart'></div>
 ```
 
-- Copia y pega estos emojis dentro te tu codigo para los simbolos: ♦ ♥ ♠ ♣
+- Copia y pega estos emojis dentro te tu código para los simbolos: ♦ ♥ ♠ ♣
 
 ### 😎 ¿Te sientes seguro?
 
