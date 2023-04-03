@@ -22,23 +22,20 @@ In the end, the project needs to look similar to [this demo](https://github.com/
 
 ## 🌱  How to start this project
 
- Do not clone this repository.
+Do not clone this repository because we are going to be using a different template.
 
-The first step to start coding is cloning the [vanilla.js boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello.git) on your local computer or gitpod.
+We recommend opening the `vanilla.js boilerplate` using a provisioning tool like [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recommended) or [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod). Alternatively, you can clone it on your local computer using the `git clone` command.
 
-a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/vanillajs-hello.git).
-
-b) If working locally type the following command from your command line:
-
-```sh
-
-$ git clone https://github.com/4GeeksAcademy/vanillajs-hello.git
+This is the repository you need to open or clone:
 
 ```
+https://github.com/4GeeksAcademy/vanillajs-hello.git
+```
 
-## 💡 Important: 
+**👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
 
-Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
+
+💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
 
 ## 💡 Hints
 
@@ -63,3 +60,5 @@ The following requirements are not needed to successfully finish this project, b
 `+1` Add a timer that generates a new card every 10 seconds.   
 
 `+1` Allow the user to specify the card width and height using text inputs.   
+
+This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
