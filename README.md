@@ -1,10 +1,12 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32)  Random Card Dealer in Javascript, HTML and CSS
+<!--hide-->
+# Random Card Dealer in Javascript, HTML and CSS
+<!--endhide-->
 
 <p align="center">
 <img height="200px" src="https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true" />
 </p>
 
-In this project you will learn how to change your website styles during the runtime using [VanillaJS](https://stackoverflow.com/questions/20435653/what-is-vanillajs) (plain normal js).
+In this project, you will learn how to change your website styles during the runtime using [VanillaJS](https://stackoverflow.com/questions/20435653/what-is-vanillajs) (plain normal js).
 
 # 📝 Instructions
 
@@ -44,7 +46,7 @@ Remember to create a new repository, update the remote (`git remote set-url orig
 
 - Create a general **.card** class that applies the general styles to each card, and one additional CSS class for each suit: .spade, .club, .heart & .diamond.
 
-- Apply the .card class to the entire div but only apply one of the suit classes at a time, depending on what suit you want to apply. For example, a 3 of Hearts will have this HTML declaration:
+- Apply the .card class to the entire div, but only apply one of the suit classes at a time, depending on what suit you want to apply. For example, a 3 of Hearts will have this HTML declaration:
 
 ```html
     <div class='card heart'></div>
@@ -54,7 +56,7 @@ Remember to create a new repository, update the remote (`git remote set-url orig
 
 ## 😎 Feeling Confident?
 
-The following requirements are not needed to sucessfully finish this project, but you can try and challenge yourself!
+The following requirements are not needed to successfully finish this project, but you can try and challenge yourself!
 
 `+1` Add a button that generates a new card when clicked. 
 
