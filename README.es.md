@@ -20,21 +20,22 @@ Crea un algoritmo que genere aleatoriamente una carta en cada actualización:
 
 Al final, el proyecto debe ser similar a [esta demostración](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱 Cómo comenzar este proyecto
 
- No clones este repositorio. El primer paso para comenzar a codificar es clonar el [vanillajs boilerplate](https://github.com/4GeeksAcademy/vanillajs-hello) en tu computador local o con Gitpod.
+No clones este repositorio porque vamos a usar una plantilla diferente.
 
-a) Si usas Gitpod (recomendada) puedes clonar el boilerplate [clic aquí](https://github.com/4GeeksAcademy/vanillajs-hello).
+Recomendamos abrir el `vanilla.js boilerplate` usando una herramienta de aprovisionamiento como [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod). Alternativamente, puedes clonarlo en tu computadora local usando el comando `git clone`.
 
-b) Si trabajas localmente, escribe el siguiente comando en tu terminal: 
+Este es el repositorio que necesitas abrir o clonar:
 
-```sh
-$ git clone  https://github.com/4GeeksAcademy/vanillajs-hello
+```
+https://github.com/4GeeksAcademy/vanillajs-hello.git
 ```
 
-## 🔎 Importante
+**👉 Por favor sigue estos pasos** [cómo comenzar un proyecto de codificación](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).
 
-Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
+💡 Importante: Recuerda guardar y subir tu código a GitHub creando un nuevo repositorio, actualizando el remoto (`git remote set-url origin <your new url>`) y subiendo el código a tu nuevo repositorio usando los comandos `add`, `commit` y `push` desde la terminal de git.
 
 ## 💡 Pista
 
@@ -59,3 +60,5 @@ Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `gi
 `+1` Agrega un timer que genere una nueva carta automaticamente cada 10 segundos.
 
 `+1` Permítele al usuario especificar el width y height de la carta utilizando text-inputs.
+
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
