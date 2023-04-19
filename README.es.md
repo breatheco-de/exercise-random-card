@@ -49,11 +49,11 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
     <div class='card heart'></div>
 ```
 
-- Copia y pega estos emojis dentro te tu codigo para los simbolos: ♦ ♥ ♠ ♣
+- Copia y pega estos emojis dentro te tu código para los símbolos: ♦ ♥ ♠ ♣
 
 ### 😎 ¿Te sientes seguro?
 
-¡Los siguientes requeriemientos no son necesarios para completar satisfactoriamente el proyecto pero puedes intentar retarte a ti mismo!
+¡Los siguientes requerimientos no son necesarios para completar satisfactoriamente el proyecto pero puedes intentar retarte a ti mismo!
 
 `+1` Agrega un botón que genere una nueva carta cuando sea apretado.
 
