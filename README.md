@@ -12,7 +12,7 @@ In this project, you will learn how to change your website styles during the run
 
 Create an algorithm that randomly builds a card on every refresh:
 
-1. Every time the website refreshes a new random card needs to show.
+1. Every time the website refreshes a new random card needs to show. whatever
 
 2. The card must have one of the possible suits: Hearts, Spades, Clubs and Diamonds.
 
