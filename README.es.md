@@ -49,7 +49,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 <div class='card heart'></div>
 ```
 
-- Copia y pega estos emojis dentro de tu código para los símbolos: ♦ ♥ ♠ ♣
+- Copia y pega estos íconos dentro de tu código para los símbolos: ♦ ♥ ♠ ♣
 
 ## 😎 ¿Te sientes seguro?
 
