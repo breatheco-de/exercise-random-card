@@ -14,7 +14,7 @@ Crea un algoritmo que genere aleatoriamente una carta en cada actualización:
 
 1. Cada vez que el sitio web se actualice, una nueva carta aleatoria debe mostrarse.
 
-2. La carta debe tener uno de las posibles palos: Corazones, Picas, Clubes y Diamantes.
+2. La carta debe tener uno de los posibles palos: Corazones, Picas, Clubes y Diamantes.
 
 3. El valor de la carta debe ser uno de los siguientes: 2 a 10, Rey, Reina, Jota o As (sin comodín).
 
