@@ -43,7 +43,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 
 - Create a general `.card` class that applies the common styles to each card, and one additional CSS class for each suit: `.spade`, `.club`, `.heart` & `.diamond`.
 
-- Apply the `.card` class to the entire div, but only apply one of the suit classes at a time, depending on what suit you want to apply. For example, a 3 of Hearts will have this HTML declaration:
+- Apply the `.card` class to the entire div, but only apply one of the suit classes at a time, depending on what suit you want to apply. For example, a 3 of hearts will have this HTML declaration:
 
 ```html
 <div class='card heart'></div>
