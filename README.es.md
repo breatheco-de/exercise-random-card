@@ -43,7 +43,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 
 - Crea una clase general `.card` que aplique los estilos comunes a cada carta, y una clase CSS adicional para cada palo: `.spade`, `.club`, `.heart` & `.diamond`.
 
-- Aplica la clase `.card` a todo el div, pero solo aplica una de las clases del palo de carta a la vez, dependiendo del palo que desees aplicar. Por ejemplo, un 3 de corazones tendrá esta declaración HTML:
+- Aplica la clase `.card` a todo el div, pero solo aplica una de las clases del palo de la carta a la vez, dependiendo del palo que desees aplicar. Por ejemplo, un 3 de corazones tendrá esta declaración HTML:
 
 ```html
 <div class='card heart'></div>
