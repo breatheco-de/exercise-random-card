@@ -8,7 +8,7 @@
 
 En este proyecto, aprenderás cómo cambiar los estilos de tu sitio web durante el tiempo de ejecución utilizando [VanillaJS](https://stackoverflow.com/questions/20435653/what-is-vanillajs) (JavaScript estándar).
 
-## Instrucciones
+## 📝 Instrucciones
 
 Crea un algoritmo que genere aleatoriamente una carta en cada actualización:
 
