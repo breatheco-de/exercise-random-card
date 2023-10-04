@@ -1,5 +1,5 @@
 <!--hide-->
-# Repartidor de cartas al azar en JavaScript, HTML y CSS
+# Generador de cartas al azar con JavaScript, HTML y CSS
 <!--endhide-->
 
 <p align="center">
