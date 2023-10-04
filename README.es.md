@@ -14,7 +14,7 @@ Crea un algoritmo que genere aleatoriamente una carta en cada actualización:
 
 1. Cada vez que el sitio web se actualice, una nueva carta aleatoria debe mostrarse.
 
-2. La carta debe tener uno de los posibles palos: Corazones, Picas, Clubes y Diamantes.
+2. La carta debe tener uno de los posibles palos: Corazones, Picas, Tréboles y Diamantes.
 
 3. El valor de la carta debe ser uno de los siguientes: 2 a 10, Rey, Reina, Jota o As (sin comodín).
 
@@ -43,7 +43,7 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 
 - Crea una clase general `.card` que aplique los estilos comunes a cada carta, y una clase CSS adicional para cada palo: `.spade`, `.club`, `.heart` & `.diamond`.
 
-- Aplica la clase `.card` a toda la división, pero solo aplica una de las clases de la pinta/palo a la vez, dependiendo de la pinta/palo que desees aplicar. Por ejemplo, un 3 de corazones tendrá esta declaración HTML:
+- Aplica la clase `.card` a todo el div, pero solo aplica una de las clases del palo de carta a la vez, dependiendo del palo que desees aplicar. Por ejemplo, un 3 de corazones tendrá esta declaración HTML:
 
 ```html
 <div class='card heart'></div>
