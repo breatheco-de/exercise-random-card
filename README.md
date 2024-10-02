@@ -20,7 +20,7 @@ Create an algorithm that randomly builds a card on every refresh:
 
 In the end, the project needs to look similar to [this demo](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
 
-## 🌱 How to start this project
+## 🌱 How to start this project:
 
 Do not clone this repository because we are going to be using a different template.
 
