@@ -49,11 +49,12 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 <div class='card heart'></div>
 ```
 
-- Copia y pega estos íconos dentro de tu código para los símbolos: ♦ ♥ ♠ ♣
+- Copia y pega estos emojis dentro te tu código para los símbolos: ♦ ♥ ♠ ♣
+
 
 ## 😎 ¿Te sientes seguro?
 
-¡Los siguientes requerimientos no son necesarios para completar satisfactoriamente el proyecto, pero puedes intentar retarte a ti mismo!
+¡Los siguientes requerimientos no son necesarios para completar satisfactoriamente el proyecto pero puedes intentar retarte a ti mismo!
 
 `+1` Agrega un botón que genere una nueva carta cuando sea apretado.
 
@@ -61,4 +62,4 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 
 `+1` Permítele al usuario especificar el *width* y *height* de la carta utilizando text-inputs.
 
-Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Cursos de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
+Este y otros proyectos son usados para [aprender a programar](https://4geeksacademy.com/es/aprender-a-programar/aprender-a-programar-desde-cero) por parte de los alumnos de 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) realizado por [Alejandro Sánchez](https://twitter.com/alesanchezr) y muchos otros contribuyentes. Conoce más sobre nuestros [Curso de Programación](https://4geeksacademy.com/es/curso-de-programacion-desde-cero?lang=es) para convertirte en [Full Stack Developer](https://4geeksacademy.com/es/coding-bootcamps/desarrollador-full-stack/?lang=es), o nuestro [Data Science Bootcamp](https://4geeksacademy.com/es/coding-bootcamps/curso-datascience-machine-learning).
