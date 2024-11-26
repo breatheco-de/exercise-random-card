@@ -61,4 +61,6 @@ The following requirements are not needed to successfully finish this project, b
 
 `+1` Allow the user to specify the card width and height using text inputs.   
 
+<!-- hide -->
 This and many other projects are built by students as part of the 4Geeks Academy [Coding Bootcamp](https://4geeksacademy.com/us/coding-bootcamp) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and many other contributors. Find out more about our [Full Stack Developer Course](https://4geeksacademy.com/us/coding-bootcamps/part-time-full-stack-developer), and [Data Science Bootcamp](https://4geeksacademy.com/us/coding-bootcamps/datascience-machine-learning).
+<!-- endhide -->
