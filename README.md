@@ -20,6 +20,8 @@ Create an algorithm that randomly builds a card on every refresh:
 
 In the end, the project needs to look similar to [this demo](https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true).
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱 How to start this project
 
 Do not clone this repository because we are going to be using a different template.
@@ -36,6 +38,8 @@ https://github.com/4GeeksAcademy/vanillajs-hello.git
 
 
 > 💡 Important: Remember to save and upload your code to GitHub by creating a new repository, updating the remote (`git remote set-url origin <your new url>`), and uploading the code to your new repository using the `add`, `commit` and `push` commands from the git terminal.
+
+</onlyfor>
 
 ## 💡 Hints
 
