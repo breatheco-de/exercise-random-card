@@ -29,7 +29,7 @@ We recommend opening the `vanilla.js boilerplate` using a provisioning tool like
 This is the repository you need to open or clone:
 
 ```text
-https://github.com/4GeeksAcademy/vanillajs-hello.git
+https://github.com/4GeeksAcademy/vanillajs-hello
 ```
 
 **👉 Please follow these steps on** [how to start a coding project](https://4geeks.com/lesson/how-to-start-a-project).
