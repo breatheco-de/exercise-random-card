@@ -1,5 +1,8 @@
 {
-	"title" : "Random Card Generator",
+	"title" : {
+    "us": "Random Card Generator",
+    "es": "Generador de Cartas Aleatorias"
+},
 	"slug" : "random-card",
 	"status": "published",
 	"translations": ["es", "us"],
@@ -8,7 +11,10 @@
 	"duration" : 4,
 	"difficulty": "beginner",
 	"technologies": ["javascript", "html/css", "html", "css", "The DOM"],
-	"description" : "Use your CSS/HTML/JS skills to randomly draw a poker card on every website refresh.",
+	"description" : {
+    "us": "Build a Random Poker Card Generator: Use your CSS, HTML, and JS skills to create a website that shows a random poker card every time it refreshes. Generate a card with a random suit (Hearts, Spades, Clubs, Diamonds) and value (2–10, King, Queen, Jack, Ace). Enhance with extra features like timers or buttons!",
+    "es": "Crea un generador de cartas de póker aleatorias: Utiliza tus habilidades en CSS, HTML y JS para crear un sitio web que muestre una carta de póker aleatoria cada vez que se actualice. Genera una carta con un palo aleatorio (Corazones, Espadas, Tréboles, Diamantes) y un valor (2–10, Rey, Reina, Jota, As). ¡Mejora con características adicionales como temporizadores o botones!"
+},
 	"video-id": "kFrWxuKor_Y",
     "autoPlay": false,
     "projectType": "project"
