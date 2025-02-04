@@ -1,22 +1,32 @@
 {
 	"gitpod": true,
-	"title" : {
-    "us": "Random Card Generator",
-    "es": "Generador de Cartas Aleatorias"
-},
-	"slug" : "random-card",
+	"title": {
+		"us": "Random Card Generator",
+		"es": "Generador de Cartas Aleatorias"
+	},
+	"slug": "random-card",
 	"status": "published",
-	"translations": ["es", "us"],
+	"translations": [
+		"es",
+		"us"
+	],
 	"solution": "https://github.com/breatheco-de/exercise-random-card/tree/solution",
 	"preview": "https://github.com/breatheco-de/exercise-random-card/blob/master/preview.gif?raw=true",
-	"duration" : 4,
+	"duration": 4,
+	"template_url" : "https://github.com/4GeeksAcademy/vanillajs-hello",
 	"difficulty": "beginner",
-	"technologies": ["javascript", "html/css", "html", "css", "The DOM"],
-	"description" : {
-    "us": "Build a Random Poker Card Generator: Use your CSS, HTML, and JS skills to create a website that shows a random poker card every time it refreshes. Generate a card with a random suit (Hearts, Spades, Clubs, Diamonds) and value (2–10, King, Queen, Jack, Ace). Enhance with extra features like timers or buttons!",
-    "es": "Crea un generador de cartas de póker aleatorias: Utiliza tus habilidades en CSS, HTML y JS para crear un sitio web que muestre una carta de póker aleatoria cada vez que se actualice. Genera una carta con un palo aleatorio (Corazones, Espadas, Tréboles, Diamantes) y un valor (2–10, Rey, Reina, Jota, As). ¡Mejora con características adicionales como temporizadores o botones!"
-},
+	"technologies": [
+		"javascript",
+		"html/css",
+		"html",
+		"css",
+		"The DOM"
+	],
+	"description": {
+		"us": "Build a Random Poker Card Generator: Use your CSS, HTML, and JS skills to create a website that shows a random poker card every time it refreshes. Generate a card with a random suit (Hearts, Spades, Clubs, Diamonds) and value (2–10, King, Queen, Jack, Ace). Enhance with extra features like timers or buttons!",
+		"es": "Crea un generador de cartas de póker aleatorias: Utiliza tus habilidades en CSS, HTML y JS para crear un sitio web que muestre una carta de póker aleatoria cada vez que se actualice. Genera una carta con un palo aleatorio (Corazones, Espadas, Tréboles, Diamantes) y un valor (2–10, Rey, Reina, Jota, As). ¡Mejora con características adicionales como temporizadores o botones!"
+	},
 	"video-id": "kFrWxuKor_Y",
-    "autoPlay": false,
-    "projectType": "project"
+	"autoPlay": false,
+	"projectType": "project"
 }
